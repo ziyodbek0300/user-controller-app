@@ -1,0 +1,24 @@
+// Auth
+export const AUTH_START = 'AUTH_START';
+export const AUTH_SUCCESS = 'AUTH_SUCCESS';
+export const AUTH_FAILED = 'AUTH_FAILED';
+export const AUTH_LOGOUT = 'AUTH_LOGOUT';
+export const AUTH_USER = 'AUTH_USER';
+export const AUTH_INIT_LOGOUT = 'AUTH_INIT_LOGOUT';
+export const AUTH_CHECK_TIMEOUT = 'AUTH_CHECK_TIMEOUT';
+export const AUTH_CHECK_STATE = 'AUTH_CHECK_STATE';
+
+// UsersList
+export const FETCH_USERS = 'FETCH_USERS';
+export const CLEAR_USERS_INIT = 'CLEAR_USERS_INIT';
+export const CLEAR_USERS = 'CLEAR_USERS';
+export const ADD_NEW_USER_INIT = 'ADD_NEW_USER_INIT';
+export const ADD_NEW_USER = 'ADD_NEW_USER';
+export const START_FETCH_USERS = 'START_FETCH_USERS';
+export const FETCH_USERS_SUCCESS = 'FETCH_USERS_SUCCESS';
+export const FETCH_USERS_FAILED = 'FETCH_USERS_FAILED';
+export const DELETE_USER_SUCCESS = 'DELETE_USER_SUCCESS';
+export const DELETE_USER_FAILED = 'DELETE_USER_FAILED';
+export const DELETE_USER_INIT = 'DELETE_USER_INIT';
+export const DELETE_USER = 'DELETE_USER';
+export const SET_USERS = 'SET_USERS';

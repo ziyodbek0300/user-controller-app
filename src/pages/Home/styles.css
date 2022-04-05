@@ -1,0 +1,17 @@
+.card_img {
+    height: 100px;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card_img img {
+    height: 100px;
+    width: 100px;
+}
+
+.user_title {
+    font-size: 1.4rem;
+    font-weight: 700;
+}
